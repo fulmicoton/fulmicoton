@@ -1,7 +1,6 @@
 Hi, my name is Paul Masurel. (@fulmicoton)
 
-
-I am the maintainer of [tantivy](https://github.com/tantivy-search/tantivy), a rust search engine library akin to Lucene.
+I am the CEO of [Quickwit, Inc.](https://quickwit.io/) and the maintainer of [tantivy](https://github.com/tantivy-search/tantivy), a rust search engine library akin to Lucene.
 
 
 <!--
